@@ -1,0 +1,301 @@
+id,name,address
+1,Colombian,4948 Hauk Parkway
+2,Ecuadorian,1530 Starling Crossing
+3,Chippewa,90725 Mariners Cove Park
+4,Laotian,1968 Stephen Trail
+5,Thai,749 Miller Lane
+6,South American,82 Northfield Parkway
+7,Yaqui,8 Old Gate Park
+8,Salvadoran,27126 Fieldstone Place
+9,White,976 Harbort Alley
+10,Kiowa,13 Swallow Alley
+11,Chippewa,54 Corscot Way
+12,Chippewa,83 Red Cloud Court
+13,Asian,7 Hagan Parkway
+14,Menominee,9 Warbler Way
+15,Apache,37 East Way
+16,Navajo,39729 Mayer Plaza
+17,Argentinian,72706 Havey Hill
+18,Tlingit-Haida,3 Lake View Road
+19,Tohono O'Odham,13 Cardinal Park
+20,Laotian,126 American Ash Court
+21,Laotian,33 Pennsylvania Road
+22,Potawatomi,40047 Forest Run Lane
+23,Sioux,6690 Novick Crossing
+24,Shoshone,8 Blue Bill Park Trail
+25,Paiute,1 Sauthoff Pass
+26,Vietnamese,4230 Reindahl Circle
+27,Houma,34 Carberry Center
+28,Ottawa,002 Fieldstone Trail
+29,Yaqui,48002 Barby Parkway
+30,Samoan,84 Arrowood Alley
+31,Central American,72272 Fair Oaks Circle
+32,Mexican,08571 Esker Circle
+33,Costa Rican,308 Gale Terrace
+34,Pueblo,1 Fisk Crossing
+35,Pima,73849 Schmedeman Alley
+36,Colville,67 Grayhawk Street
+37,Seminole,4 Ruskin Avenue
+38,Chippewa,54711 Bayside Parkway
+39,Chickasaw,35733 Southridge Trail
+40,Ecuadorian,714 Utah Court
+41,Yakama,6751 Doe Crossing Junction
+42,Colombian,65 Menomonie Alley
+43,American Indian and Alaska Native (AIAN),62561 Manitowish Point
+44,Sri Lankan,0 South Center
+45,American Indian,7889 Sycamore Road
+46,Guatemalan,3979 Hintze Plaza
+47,Potawatomi,35574 Kings Parkway
+48,Thai,5536 Carpenter Plaza
+49,Cuban,7 Dawn Hill
+50,Asian,61 Briar Crest Court
+51,Spaniard,93 Kropf Way
+52,Colville,72588 Reinke Drive
+53,Bolivian,309 Springs Road
+54,American Indian,024 Di Loreto Center
+55,Thai,76802 Browning Circle
+56,Cheyenne,4133 Monica Terrace
+57,Cree,34 Arapahoe Hill
+58,Bolivian,850 Memorial Crossing
+59,Peruvian,8 Towne Road
+60,Spaniard,1 Lawn Trail
+61,Black or African American,54 Melby Junction
+62,Sioux,43 Westend Place
+63,Yakama,14022 Larry Point
+64,Colombian,669 North Lane
+65,Black or African American,2 Melody Lane
+66,Uruguayan,33626 Basil Place
+67,Puget Sound Salish,1107 Saint Paul Drive
+68,Pima,2 4th Pass
+69,White,4785 Logan Alley
+70,Asian Indian,13005 West Park
+71,Dominican (Dominican Republic),71969 Tomscot Point
+72,Delaware,181 Red Cloud Trail
+73,Chippewa,081 Vahlen Point
+74,Asian,50151 Crownhardt Avenue
+75,Native Hawaiian and Other Pacific Islander (NHPI),2 Fair Oaks Hill
+76,American Indian and Alaska Native (AIAN),078 Meadow Ridge Drive
+77,Tlingit-Haida,03025 Kings Avenue
+78,Fijian,3099 Bay Terrace
+79,Pima,59060 New Castle Street
+80,Argentinian,3281 Caliangt Hill
+81,Vietnamese,7715 Vahlen Plaza
+82,Cree,424 Old Shore Place
+83,Latin American Indian,28033 Daystar Point
+84,Nicaraguan,391 Onsgard Pass
+85,Choctaw,479 Mandrake Terrace
+86,Micronesian,9 Moland Road
+87,Houma,01 Hoard Court
+88,Spaniard,000 Kedzie Junction
+89,Pakistani,5406 Heath Junction
+90,Cuban,3506 Sachs Drive
+91,Paiute,6522 Westerfield Street
+92,Crow,13 Lillian Point
+93,Asian,1112 Mariners Cove Drive
+94,Fijian,44 Bay Hill
+95,American Indian and Alaska Native (AIAN),69 Comanche Drive
+96,Puerto Rican,41 Grasskamp Street
+97,Tongan,75 Lunder Center
+98,Lumbee,913 Tony Way
+99,Ottawa,0 Bunting Alley
+100,Cuban,1 Hoffman Way
+101,Dominican (Dominican Republic),395 Mallory Plaza
+102,Crow,2 Pleasure Drive
+103,Chinese,91059 Merry Lane
+104,Colville,3388 Messerschmidt Plaza
+105,Spaniard,6 Monument Center
+106,Filipino,2617 Cascade Center
+107,Kiowa,011 Farragut Avenue
+108,Hmong,45535 Michigan Crossing
+109,Choctaw,550 Warbler Parkway
+110,Delaware,344 Karstens Center
+111,Puerto Rican,31914 Di Loreto Hill
+112,Bolivian,2 Talisman Place
+113,Puerto Rican,81898 Lakeland Lane
+114,White,74 Shoshone Park
+115,Asian,7596 Northview Pass
+116,Argentinian,2 Marcy Alley
+117,Malaysian,103 Michigan Junction
+118,Apache,9848 Bultman Way
+119,Salvadoran,367 Sutherland Junction
+120,Chinese,03 David Way
+121,Paiute,36 Kensington Drive
+122,Tlingit-Haida,63 Chive Hill
+123,Comanche,10904 Sugar Street
+124,Cambodian,701 Dovetail Circle
+125,Chilean,3 Killdeer Crossing
+126,Creek,50 Bobwhite Center
+127,Menominee,45008 Ridgeview Plaza
+128,Aleut,3 Hanson Hill
+129,Menominee,9 Maywood Court
+130,Ottawa,9261 New Castle Hill
+131,White,84169 Nobel Place
+132,Shoshone,58148 Oxford Park
+133,White,1731 Farwell Pass
+134,Filipino,420 Mayfield Crossing
+135,Central American,8 Brown Terrace
+136,Fijian,5 Hudson Junction
+137,Yuman,19229 Comanche Park
+138,Choctaw,63 Dayton Center
+139,Lumbee,09560 Ruskin Way
+140,Melanesian,95237 Oak Valley Alley
+141,Chinese,961 Sommers Pass
+142,Uruguayan,6 Brickson Park Pass
+143,Cuban,784 Kropf Place
+144,Menominee,7 Upham Crossing
+145,Cuban,81522 Oak Valley Hill
+146,Taiwanese,43470 Barnett Center
+147,Sri Lankan,125 Main Crossing
+148,Bangladeshi,759 Pepper Wood Road
+149,Cherokee,6339 North Avenue
+150,Menominee,0 Eagan Point
+151,Osage,98378 Prairieview Street
+152,Tlingit-Haida,0 Walton Plaza
+153,White,08889 Graceland Park
+154,Puget Sound Salish,29 Pankratz Road
+155,Argentinian,794 Lighthouse Bay Crossing
+156,Puerto Rican,1508 Debra Hill
+157,Cree,97301 Meadow Vale Lane
+158,Alaskan Athabascan,69 Bultman Trail
+159,Houma,983 Tennessee Parkway
+160,Native Hawaiian and Other Pacific Islander (NHPI),21 1st Junction
+161,Panamanian,64536 Glendale Trail
+162,Shoshone,1225 Summer Ridge Road
+163,Guamanian,77477 Sherman Park
+164,Indonesian,413 Scoville Parkway
+165,Osage,5964 Forest Run Circle
+166,Tlingit-Haida,68 Transport Junction
+167,Latin American Indian,3824 Huxley Parkway
+168,Bolivian,7 Hoffman Pass
+169,Uruguayan,24 Starling Alley
+170,Alaskan Athabascan,8 Mayfield Street
+171,Paiute,54 Killdeer Point
+172,Osage,43822 Utah Place
+173,Dominican (Dominican Republic),55650 Warner Street
+174,Asian Indian,94218 Lindbergh Trail
+175,Eskimo,620 Debra Way
+176,Costa Rican,69869 Evergreen Pass
+177,Native Hawaiian and Other Pacific Islander (NHPI),1680 Mesta Crossing
+178,White,939 Eliot Road
+179,Cree,167 Lakewood Place
+180,Pueblo,6378 Hoard Avenue
+181,Chamorro,8052 Summit Terrace
+182,Tlingit-Haida,42839 Northwestern Point
+183,Cree,51 Iowa Place
+184,White,0684 New Castle Place
+185,Guatemalan,86 Moland Circle
+186,Guamanian,52 Bayside Parkway
+187,Indonesian,0182 Golf View Plaza
+188,Latin American Indian,18 Mayfield Road
+189,Kiowa,858 Cardinal Point
+190,Chippewa,137 Birchwood Place
+191,Tlingit-Haida,938 Del Mar Parkway
+192,Salvadoran,51 Pond Street
+193,Colville,52051 8th Road
+194,Yuman,55 Mendota Alley
+195,Guamanian,5 Waywood Parkway
+196,Vietnamese,2 Northfield Parkway
+197,Chippewa,8443 Butterfield Road
+198,Guatemalan,47195 Tennessee Trail
+199,Kiowa,182 Nevada Street
+200,Hmong,0921 Colorado Terrace
+201,Paiute,6981 Melrose Park
+202,Bangladeshi,873 Sheridan Circle
+203,Uruguayan,78236 Stang Court
+204,Black or African American,6941 Grover Circle
+205,Puget Sound Salish,3 Doe Crossing Point
+206,Aleut,803 Magdeline Court
+207,Bolivian,8 Reindahl Street
+208,Honduran,58604 Jenna Crossing
+209,Colville,2 Haas Circle
+210,Yaqui,82 Beilfuss Park
+211,Uruguayan,47843 Hoard Pass
+212,Cuban,2583 Northridge Park
+213,Chinese,0 Utah Circle
+214,Iroquois,7 Barby Point
+215,Laotian,714 Warbler Park
+216,Puget Sound Salish,44400 Barnett Pass
+217,Puget Sound Salish,35824 Continental Court
+218,Indonesian,19096 Washington Place
+219,Menominee,45 5th Court
+220,Puget Sound Salish,84 Arkansas Street
+221,Lumbee,609 Manitowish Alley
+222,Mexican,8 Grasskamp Place
+223,Chinese,8 Dakota Park
+224,Hmong,9675 Burrows Crossing
+225,Pima,92 Bellgrove Road
+226,Mexican,3 Warrior Hill
+227,Chinese,10 Monica Parkway
+228,Puget Sound Salish,955 Park Meadow Court
+229,Hmong,24003 Park Meadow Plaza
+230,American Indian,59 Waywood Center
+231,Indonesian,1 Bashford Center
+232,Colombian,921 Ronald Regan Hill
+233,Tongan,0 Spaight Point
+234,Blackfeet,8562 Bay Drive
+235,Colville,89343 Bartillon Center
+236,Cuban,44544 Packers Drive
+237,Laotian,47 Bluestem Park
+238,Sri Lankan,002 Sugar Terrace
+239,Delaware,3428 Granby Way
+240,Black or African American,99 Claremont Junction
+241,Nicaraguan,50 Marcy Park
+242,Filipino,184 Northport Point
+243,Choctaw,27288 Ramsey Pass
+244,Delaware,5 Spaight Hill
+245,Shoshone,020 Boyd Junction
+246,Argentinian,4880 Lien Court
+247,Creek,99 Ridgeview Place
+248,Indonesian,5925 Hoffman Lane
+249,Fijian,5 Independence Center
+250,Potawatomi,50 Meadow Vale Hill
+251,Bangladeshi,3 Everett Junction
+252,Nicaraguan,425 Becker Avenue
+253,Paiute,55 Gulseth Way
+254,Uruguayan,172 Sunnyside Trail
+255,Sioux,867 Manley Parkway
+256,Yakama,5 2nd Alley
+257,Shoshone,34 Northview Way
+258,Costa Rican,02956 Farmco Court
+259,Samoan,75846 Oriole Hill
+260,Comanche,316 Aberg Pass
+261,American Indian,5 Eastlawn Plaza
+262,Chippewa,285 Westport Pass
+263,Native Hawaiian and Other Pacific Islander (NHPI),89384 Express Parkway
+264,Navajo,730 Everett Avenue
+265,Costa Rican,84075 Sullivan Pass
+266,Polynesian,806 Portage Trail
+267,Creek,00 Portage Alley
+268,Yuman,21676 Erie Terrace
+269,Mexican,79289 Rigney Hill
+270,Delaware,2939 Jenna Pass
+271,Yuman,21 Heffernan Junction
+272,Kiowa,060 Nancy Street
+273,Puget Sound Salish,16809 Northview Terrace
+274,Colombian,217 Sunnyside Trail
+275,Seminole,12802 Debra Alley
+276,Pima,511 Rutledge Hill
+277,American Indian,61573 Westend Center
+278,Panamanian,57153 Del Sol Crossing
+279,White,6446 Park Meadow Park
+280,Guamanian,9478 Truax Lane
+281,Osage,18856 Ridgeview Trail
+282,Sri Lankan,1483 Reindahl Way
+283,Yakama,562 Riverside Hill
+284,American Indian and Alaska Native (AIAN),64 Fairview Center
+285,Nicaraguan,6 Buena Vista Court
+286,Yakama,07 Bonner Drive
+287,Honduran,61093 Havey Way
+288,American Indian and Alaska Native (AIAN),14 Erie Crossing
+289,Indonesian,22009 Anzinger Street
+290,Japanese,8530 Grover Avenue
+291,Potawatomi,493 Bonner Street
+292,Guatemalan,63 Talisman Avenue
+293,Taiwanese,13669 Warner Center
+294,Mexican,4 Washington Hill
+295,Cree,3975 Spaight Junction
+296,Guatemalan,5024 Upham Trail
+297,Cree,18 Grasskamp Circle
+298,Sri Lankan,2366 Novick Hill
+299,White,9824 Hoepker Point
+300,Seminole,0117 Homewood Junction

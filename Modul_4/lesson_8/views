@@ -1,0 +1,24 @@
+PostgreSql da viewlarning turlari
+
+View - bu table dan ma`lum bir condition ga qarab ma`lumotlarni olish. Ma`lumotlar database ga yoki xotiraga saqlanmaydi.
+Shunchaki o`zgaruvchan nom orqali chaqiriladi. Bu sekin bo`lishi mumkin.
+
+1.Simple Views
+Bular oddiy va sodda viewlar hisoblanadi va bir dona table dan ma`lumot olish orqali yasaladi.
+
+2.Complex views
+Bular murakkab view hisoblanadi va ikkita table ni join qilib aggregate functions ishlatish orqali yasaladi
+
+3.Updateable views
+Bu turdagi viewlarni update qilganingizda asosiy table ham update bo`ladi.
+
+4.Materilized views
+Bu view xotiraga alohida table sifatida saqlanadi va xotiradan joy oladi. Ustunligi esa tezroq ishlaydi lekin afsusli
+asosiy table update qilingan vaqtda bu viewni qo`lbola manually refresh qilib turish kerak.
+
+5.Indexded views
+Bu viewlar ham materilied views bitta farqi bu viewsda speed ni yaxshilash uchun indexlar bor
+
+6.Recurcive views
+Hirarchial view turi hisoblanib huddi rekursiv funksiyaga o`xshaydi result qolmaguncha ichma-ich davom etadi.
+

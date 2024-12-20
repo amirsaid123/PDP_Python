@@ -1,0 +1,32 @@
+"""
+Home Work:
+    https://dummyjson.com/users
+
+    1) birth year >>> 1996
+        filter : birth year
+    output : first_name | last_name
+             first_name | last_name
+             ...
+
+    2) https://dummyjson.com/products
+        statistica
+            bugun : 0
+            1 haftalik: soni
+            1 oylik : soni
+            1 yillik : soni
+
+    3)  https://dummyjson.com/products
+        from_date >>>
+        to_date  >>>
+
+        filter: from_date <> to_date
+
+        output:
+                product_name  | createdAt
+
+    4)  https://dummyjson.com/products
+        search : Mascara Essence
+
+        output:
+                product_title  | product_description
+"""

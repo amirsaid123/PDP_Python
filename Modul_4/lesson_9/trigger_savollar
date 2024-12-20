@@ -1,0 +1,11 @@
+1.Employees nomli table oching(id, fullname, salary) oyliklari minus bo`lmasligini tekshiring
+Insert, trigger
+
+
+2.Products(id, name, price) table uchun changes(id, old_name, new_name, old_price, new_price) nomi table create qiling
+va o`zgarishlarni yozib boradigan trigger funksiya yasang
+
+3. Users(id, fullname, age, email) table ni delete qilganda eski ma`lumotni yozib oladigan user_changes() table yarating va
+trigger funksiya yozing
+
+4.

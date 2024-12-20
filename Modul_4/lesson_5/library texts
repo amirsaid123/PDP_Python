@@ -1,0 +1,31 @@
+library:
+       users:
+            id
+            fullname
+            age
+            phone_number
+            passport_id
+       books:
+            id
+            title
+            language
+            author_id
+            genre_id
+            publisher_name
+       rents:
+            id
+            user_id
+            book_id
+            start_date
+            deadline
+       genres:
+             id
+             title
+       authors:
+              id
+              fullname
+              description
+              birth_date
+
+
+

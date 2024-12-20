@@ -1,0 +1,77 @@
+[
+    {
+        "City": "tashkent",
+        "url": "https://obhavo.uz/tashkent",
+        "id": 1
+    },
+    {
+        "City": "andijan",
+        "url": "https://obhavo.uz/andijan",
+        "id": 2
+    },
+    {
+        "City": "buxoro",
+        "url": "https://obhavo.uz/bukhara",
+        "id": 3
+    },
+    {
+        "City": "guliston",
+        "url": "https://obhavo.uz/gulistan",
+        "id": 4
+    },
+    {
+        "City": "jizzax",
+        "url": "https://obhavo.uz/jizzakh",
+        "id": 5
+    },
+    {
+        "City": "zarafshon",
+        "url": "https://obhavo.uz/zarafshan",
+        "id": 6
+    },
+    {
+        "City": "qarshi",
+        "url": "https://obhavo.uz/karshi",
+        "id": 7
+    },
+    {
+        "City": "navoiy",
+        "url": "https://obhavo.uz/navoi",
+        "id": 8
+    },
+    {
+        "City": "namangan",
+        "url": "https://obhavo.uz/namangan",
+        "id": 9
+    },
+    {
+        "City": "nukus",
+        "url": "https://obhavo.uz/nukus",
+        "id": 10
+    },
+    {
+        "City": "samarqand",
+        "url": "https://obhavo.uz/samarkand",
+        "id": 11
+    },
+    {
+        "City": "termiz",
+        "url": "https://obhavo.uz/termez",
+        "id": 12
+    },
+    {
+        "City": "urganch",
+        "url": "https://obhavo.uz/urgench",
+        "id": 13
+    },
+    {
+        "City": "fargona",
+        "url": "https://obhavo.uz/ferghana",
+        "id": 14
+    },
+    {
+        "City": "xiva",
+        "url": "https://obhavo.uz/khiva",
+        "id": 15
+    }
+]

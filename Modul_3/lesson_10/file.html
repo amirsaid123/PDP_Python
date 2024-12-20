@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Sample Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+        }
+        nav a {
+            color: white;
+            padding: 1rem;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #575757;
+        }
+        .container {
+            padding: 20px;
+        }
+        .content {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        .content div {
+            background-color: #fff;
+            margin: 10px;
+            padding: 20px;
+            flex: 1 1 30%;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Sample Webpage</h1>
+        <p>Explore some random content</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Services</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="container">
+        <section class="content">
+            <div>
+                <h2>Featured Product</h2>
+                <p>This is a product description. It is great for those who are looking for something special. Price: $99.99</p>
+                <button>Buy Now</button>
+            </div>
+
+            <div>
+                <h2>Latest News</h2>
+                <ul>
+                    <li><a href="#">Article 1: How to Improve Your Web Design</a></li>
+                    <li><a href="#">Article 2: The Future of Web Development</a></li>
+                    <li><a href="#">Article 3: 5 Tips for Better User Experience</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h2>Contact Form</h2>
+                <form action="#">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required><br><br>
+
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required><br><br>
+
+                    <label for="message">Message:</label><br>
+                    <textarea id="message" name="message" rows="4" cols="50" required></textarea><br><br>
+
+                    <button type="submit">Send Message</button>
+                </form>
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 My Sample Webpage | All Rights Reserved</p>
+    </footer>
+</body>
+</html>
+>

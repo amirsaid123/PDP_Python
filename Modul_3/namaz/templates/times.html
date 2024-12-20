@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prayer Times - {{ city_name }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Prayer Times for {{ city_name }}</h1>
+        <p>Here are the prayer times for today</p>
+    </header>
+
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Prayer</th>
+                    <th>Time</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for time in namaz_times %}
+                    <tr>
+                        <td>{{ time['namoz'] }}</td>
+                        <td>{{ time['time'] }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Namoz Times</p>
+    </div>
+</body>
+</html>

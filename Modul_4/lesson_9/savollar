@@ -1,0 +1,19 @@
+1-Task
+Faqatgina select metodini ishlatishi mumkin bo`lgan yangi user yarating va unga biror bir
+databasega access bering lekin u faqat select metodidan foydalana olsin.
+
+2-Task
+Faqatgina ko`rish va ma`lumot qo`shish metodlarini bajara oladigan role yarating va roleni
+boshqa userlarga bering.
+
+3-Task
+Tepada yaratgan userdan select metodini ham olib qo`ying.
+
+4-Task
+admin_user yaratib unga barcha metodlarni qo`llash imkonini bering
+
+5-Task
+Har xil rollar yarating.
+Reader (select)
+Editor (select, insert, update)
+admin (select, insert, update, create, delete)

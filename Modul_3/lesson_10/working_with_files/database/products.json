@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Asus Tuf Gaming F15",
+        "price": "1000$"
+    },
+    {
+        "id": 2,
+        "name": "Samsung S24 Ultra",
+        "price": "1500$"
+    },
+    {
+        "id": 3,
+        "name": "Xiaomi 12 Ultra",
+        "price": "2000$"
+    },
+    {
+        "id": 4,
+        "name": "Xiaomi 12 Ultra",
+        "price": "2000$"
+    }
+]

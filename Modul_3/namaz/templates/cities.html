@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Namoz Times</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Namoz Times</h1>
+        <p>Select a city to get the prayer times</p>
+    </header>
+
+    <div class="container">
+        <h2>Cities</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>City</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for city in cities %}
+                    <tr>
+                        <td>{{ city[0] }}</td>
+                        <td><a href="{{ url_for('show_city', city_id=city[0]) }}">{{ city[1] }}</a></td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2024 Namoz Times</p>
+    </div>
+</body>
+</html>
