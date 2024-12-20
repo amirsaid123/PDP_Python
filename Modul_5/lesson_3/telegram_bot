@@ -1,0 +1,14 @@
+BotFather
+20 ta limit for one account
+my token for amirsaid_bot "7783970772:AAGkCdvqX1LfnDI7e-6pAOQV4eZrYK2Sb7o"
+url "https://api.telegram.org/bot<token>/METHOD_NAME"
+getMe - bot haqida ma`lumot beradi
+getUpdates - updatelarni ko`rsatadi
+
+
+
+https://api.telegram.org/bot7783970772:AAGkCdvqX1LfnDI7e-6pAOQV4eZrYK2Sb7o/sendMessage?chat_id=5427963444&text=Ko`p xuyyet qima bich
+
+
+
+url = f"https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={user_id}&text={message}"
