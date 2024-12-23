@@ -10,7 +10,7 @@ import asyncio
 import logging
 import sys
 
-load_dotenv(r"D:\PDP Python\Modul_5\.env")
+load_dotenv(r"/Modul_5/.env")
 TOKEN = getenv("TUKUN")
 
 if not TOKEN:

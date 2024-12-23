@@ -10,28 +10,28 @@ import asyncio
 import logging
 import sys
 
-# Load environment variables
-load_dotenv(r"D:\PDP Python\Modul_5\.env")
+
+load_dotenv(r"/Modul_5/.env")
 TOKEN = getenv("TOKEN")
 
 if not TOKEN:
     raise ValueError("Bot token is not found in the .env file")
 
-# Create Bot and Dispatcher instances
+
 bot = Bot(token=TOKEN, default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
 
-# Function to create and return the custom reply keyboard
+
 async def button_handler():
     builder = ReplyKeyboardBuilder()
     builder.add(
         KeyboardButton(text="Login"),
         KeyboardButton(text="Register"),
     )
-    builder.adjust(2)  # Arrange buttons in 2 columns
+    builder.adjust(2)
     return builder.as_markup(resize_keyboard=True, one_time_keyboard=True)
 
-# Function to create and return the inline keyboard
+
 async def inline_button():
     inline = InlineKeyboardBuilder()
     inline.add(
@@ -43,17 +43,17 @@ async def inline_button():
     inline.adjust(2)
     return inline.as_markup()
 
-# Start command handler
+
 @dp.message(CommandStart())
 async def start_handler(message: Message) -> None:
-    # Set bot commands
+
     await message.bot.set_my_commands([BotCommand(command="/start", description="Start"), BotCommand(command="/help", description="Help")])
 
-    # Send the reply keyboard first
+
     reply_keyboard = await button_handler()
     await message.answer(f"Hello, {html.bold(message.from_user.full_name)}!", reply_markup=reply_keyboard)
 
-    # Send the inline keyboard in a separate message
+
     inline_keyboard = await inline_button()
     await message.answer("Please choose an option:", reply_markup=inline_keyboard)
 
@@ -61,7 +61,7 @@ async def start_handler(message: Message) -> None:
 async def handle_callback_query(query: CallbackQuery) -> None:
     await query.message.edit_text(f"You selected {query.data}")
 
-# Main polling function
+
 async def main():
     await dp.start_polling(bot)
 
